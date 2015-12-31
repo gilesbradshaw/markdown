@@ -1,1 +1,1 @@
-Release Authorization Notice 
+Release Authorization Notice!
