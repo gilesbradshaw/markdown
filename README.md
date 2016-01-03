@@ -1,4 +1,4 @@
-ok.. cc
+ok.
 
 [About](/about/)
 
