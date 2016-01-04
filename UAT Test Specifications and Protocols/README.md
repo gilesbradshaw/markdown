@@ -1,1 +1,1 @@
-UAT Test Specifications and Protocols
+UAT Test Specifications and Protocols.
